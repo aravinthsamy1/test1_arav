@@ -2,4 +2,3 @@
  mkdir /tmp/github_test
  cd /tmp/github_test
  touch f1 f2 f3
- 
