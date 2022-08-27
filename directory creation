@@ -1,4 +1,5 @@
 ####Create directory in home server
- mkdir /tmp/github_test
- cd /tmp/github_test
- touch f1 f2 f3
+ssh -tt osadmin@192.168.29.123
+mkdir /tmp/github_test
+cd /tmp/github_test
+touch f1 f2 f3
