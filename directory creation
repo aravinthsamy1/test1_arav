@@ -1,7 +1,7 @@
 #!/bin/bash
-####Create directory in home server
-ssh -tt osadmin@192.168.29.123
-mkdir -p /tmp/github_test
-cd /tmp/github_test
-touch f1 f2 f3
-echo "files created"
+   ####Create directory in home server
+   ssh -tt osadmin@192.168.29.123
+   mkdir -p /tmp/github_test
+   cd /tmp/github_test
+   touch f1 f2 f3
+   echo "files created"
